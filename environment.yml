@@ -1,4 +1,4 @@
-name: env_watermask
+name: env_nbr
 channels:
   - terradue
   - conda-forge
