@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - pystac=0.3.3 
-  - gdal 
+  - gdal>2.2.2 
   - ipykernel 
   - numpy
-  - python=3.8
+  - python=3.7
