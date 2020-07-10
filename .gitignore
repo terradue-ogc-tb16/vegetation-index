@@ -1,0 +1,6 @@
+*.tif
+*.vrt
+*.geojson
+.ipynb_checkpoints
+__pycache__
+stac-results

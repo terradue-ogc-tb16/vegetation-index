@@ -1,0 +1,11 @@
+catalog:
+    id: catid
+    title: cat title
+    description: this is the cat description
+    collections:
+        - input_reference:
+            title: Product for RBR
+            description: Product for RBR
+            entries:
+                - https://catalog.terradue.com/sentinel2/search?uid=S2B_MSIL2A_20200130T004659_N0213_R102_T53HPA_20200130T022348
+       

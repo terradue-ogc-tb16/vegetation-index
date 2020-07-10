@@ -1,0 +1,9 @@
+name: env_watermask
+channels:
+  - terradue
+  - conda-forge
+dependencies:
+  - pystac=0.3.3 
+  - gdal 
+  - ipykernel 
+  - numpy
