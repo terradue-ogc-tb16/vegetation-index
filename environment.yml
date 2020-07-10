@@ -7,3 +7,4 @@ dependencies:
   - gdal 
   - ipykernel 
   - numpy
+  - python=3.8
