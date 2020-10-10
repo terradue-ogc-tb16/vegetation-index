@@ -20,6 +20,4 @@ USER ${NB_USER}
 
 RUN test -f ${HOME}/postBuild && chmod 755 ${HOME}/postBuild && ${HOME}/postBuild || true
 
-ENV PREFIX /opt/anaconda/envs/env_vi
-
 WORKDIR ${HOME}
