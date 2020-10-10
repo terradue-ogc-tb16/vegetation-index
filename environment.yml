@@ -1,4 +1,4 @@
-name: env_nbr
+name: env_vi
 channels:
   - terradue
   - conda-forge
