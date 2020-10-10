@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/terradue-ogctb16%2Feoap%2Fd169-jupyter-nb%2Feo-processing-watermask.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/terradue-ogctb16%2Feoap%2Fd169-jupyter-nb%2Fvegetation-index.git/master?urlpath=lab)
