@@ -1,4 +1,4 @@
-name: env_vi
+name: env_vegetation_index
 channels:
   - terradue
   - conda-forge
